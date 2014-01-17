@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1386804651 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\je sais pas quoi\arbre\arbre.cpp
+	"arbre.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1386804761 c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\je sais pas quoi\arbre\arbre.h
+
+1386804667 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\je sais pas quoi\arbre\main.cpp
+	<iostream>
+	"arbre.h"
+
+1386839807 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\projet fini\arbre\arbre.cpp
+	"arbre.h"
+	"liste.hpp"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1386839277 c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\projet fini\arbre\arbre.h
+
+1386839414 c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\projet fini\arbre\liste.hpp
+
+1386839395 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\projet fini\arbre\liste.cpp
+	<stdlib.h>
+	"liste.hpp"
+	<string.h>
+	<stdio.h>
+
+1386840107 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\projet fini\arbre\main.cpp
+	<iostream>
+	"arbre.h"
+	<stdio.h>
+

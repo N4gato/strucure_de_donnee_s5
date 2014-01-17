@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1386800514 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\listesymetrique\listes.cpp
+	"listeS.h"
+	<stdio.h>
+	<string.h>
+
+1386800680 c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\listesymetrique\listes.h
+	<stdio.h>
+
+1386800864 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\listesymetrique\main.cpp
+	<iostream>
+	"listeS.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"personne.hpp"
+
+1386248875 c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\listesymetrique\personne.hpp
+
+1386800907 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\listesymetrique\personne.cpp
+	<stdio.h>
+	<string.h>
+	"personne.hpp"
+	<stdlib.h>
+

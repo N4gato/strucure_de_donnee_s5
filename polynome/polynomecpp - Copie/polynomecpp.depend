@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1384785349 source:d:\ensa\s5\algo\tp\tp3\polynomecpp\main.cpp
+	<iostream>
+	"polynome.hpp"
+
+1384737973 d:\ensa\s5\algo\tp\tp3\polynomecpp\liste.hpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1384785454 source:d:\ensa\s5\algo\tp\tp3\polynomecpp\liste.cpp
+	"liste.hpp"
+
+1384785399 source:d:\ensa\s5\algo\tp\tp3\polynomecpp\polynome.cpp
+	"polynome.hpp"
+	<stdio.h>
+	<math.h>
+
+1384357313 d:\ensa\s5\algo\tp\tp3\polynomecpp\polynome.hpp
+	"liste.hpp"
+
+1384786076 source:d:\ensa\s5\algo\tp\tp3\polynomecpp - copie\main.cpp
+	<iostream>
+	"polynome.hpp"
+
+1384357313 d:\ensa\s5\algo\tp\tp3\polynomecpp - copie\polynome.hpp
+	"liste.hpp"
+
+1384737973 d:\ensa\s5\algo\tp\tp3\polynomecpp - copie\liste.hpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1384786160 source:d:\ensa\s5\algo\tp\tp3\polynomecpp - copie\polynome.cpp
+	"polynome.hpp"
+	<stdio.h>
+	<math.h>
+
+1384785462 source:d:\ensa\s5\algo\tp\tp3\polynomecpp - copie\liste.cpp
+	"liste.hpp"
+
+1384786189 source:c:\users\dairyofjean\desktop\polynome\polynomecpp - copie\liste.cpp
+	"liste.hpp"
+
+1384737973 c:\users\dairyofjean\desktop\polynome\polynomecpp - copie\liste.hpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1384786076 source:c:\users\dairyofjean\desktop\polynome\polynomecpp - copie\main.cpp
+	<iostream>
+	"polynome.hpp"
+
+1384357313 c:\users\dairyofjean\desktop\polynome\polynomecpp - copie\polynome.hpp
+	"liste.hpp"
+
+1384786160 source:c:\users\dairyofjean\desktop\polynome\polynomecpp - copie\polynome.cpp
+	"polynome.hpp"
+	<stdio.h>
+	<math.h>
+
+1384786189 source:c:\users\dairyofjean\desktop\ \polynome\polynomecpp - copie\liste.cpp
+	"liste.hpp"
+
+1384737973 c:\users\dairyofjean\desktop\ \polynome\polynomecpp - copie\liste.hpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1386148977 source:c:\users\dairyofjean\desktop\ \polynome\polynomecpp - copie\main.cpp
+	<iostream>
+	"polynome.hpp"
+	"utility.h"
+	<windows.h>
+
+1384357313 c:\users\dairyofjean\desktop\ \polynome\polynomecpp - copie\polynome.hpp
+	"liste.hpp"
+
+1386148894 source:c:\users\dairyofjean\desktop\ \polynome\polynomecpp - copie\polynome.cpp
+	"polynome.hpp"
+	<stdio.h>
+	<math.h>
+	"utility.h"
+
+1386006487 source:c:\users\dairyofjean\desktop\ \polynome\polynomecpp - copie\utility.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utility.h"
+
+1385664901 c:\users\dairyofjean\desktop\ \polynome\polynomecpp - copie\utility.h
+
+1386775669 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\polynome\polynomecpp - copie\liste.cpp
+	<stdlib.h>
+	"liste.hpp"
+	<string.h>
+	<stdio.h>
+
+1386247241 c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\polynome\polynomecpp - copie\liste.hpp
+
+1386148894 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\polynome\polynomecpp - copie\polynome.cpp
+	"polynome.hpp"
+	<stdio.h>
+	<math.h>
+	"utility.h"
+
+1386777126 c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\polynome\polynomecpp - copie\polynome.hpp
+	"liste.hpp"
+
+1385664901 c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\polynome\polynomecpp - copie\utility.h
+
+1386006487 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\polynome\polynomecpp - copie\utility.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utility.h"
+
+1386777102 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\polynome\polynomecpp - copie\main.cpp
+	<iostream>
+	"polynome.hpp"
+	"utility.h"
+	<windows.h>
+	"liste.hpp"
+	<stdio.h>
+

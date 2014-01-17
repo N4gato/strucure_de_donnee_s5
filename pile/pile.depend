@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1384786189 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\pile\liste.cpp
+	"liste.hpp"
+
+1386151292 c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\pile\liste.h
+
+1386247241 c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\pile\liste.hpp
+
+1386777952 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\pile\main.cpp
+	<iostream>
+	"liste.hpp"
+	"pile.h"
+	<stdio.h>
+
+1386194502 c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\pile\pile.h
+	"liste.hpp"
+
+1386194502 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\pile\pile.cpp
+	"pile.h"
+	"liste.hpp"
+
+1386006487 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\pile\utility.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utility.h"
+
+1385664901 c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\pile\utility.h
+
+1386789026 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\projet fini\pile\main.cpp
+	<iostream>
+	"liste.hpp"
+	"pile.h"
+	<stdio.h>
+	"utility.h"
+	<windows.h>
+
+1387039545 c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\projet fini\pile\liste.hpp
+
+1386194502 c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\projet fini\pile\pile.h
+	"liste.hpp"
+
+1386006487 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\projet fini\pile\utility.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utility.h"
+
+1385664901 c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\projet fini\pile\utility.h
+
+1386778133 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\projet fini\pile\pile.cpp
+	"pile.h"
+	"liste.hpp"
+	<stdlib.h>
+	<stdio.h>
+

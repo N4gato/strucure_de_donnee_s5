@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1387388571 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\les graphe\graphmat.cpp
+	"graphmat.h"
+	<stdlib.h>
+	<string.h>
+
+1387388221 c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\les graphe\graphmat.h
+	<stdio.h>
+	<limits.h>
+
+1387385887 source:c:\users\dairyofjean\desktop\ \ensa s5\algorithme & structure de donnée\tp\les graphe\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
